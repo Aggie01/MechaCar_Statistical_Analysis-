@@ -36,9 +36,9 @@ The summary table below illustrates those findings:
 
 ![](Deliv3%20step2%20Lot1.jpg)
 
-![](Deliv3%20step2%20Lot1.jpg)
+![](Deliv%203%20step2%20Lot2.jpg)
 
-![](Deliv3%20step2%20Lot1.jpg)
+![](Deliv%203%20step2%20Lot3.jpg)
   
   
 
