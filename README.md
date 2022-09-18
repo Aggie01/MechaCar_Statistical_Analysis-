@@ -21,16 +21,16 @@ The summary table below illustrates those findings:
 
 - For each lot; however, **there is a huge difference in the variance of Lot 3 particularly**. It is over 100 pounds per square inch and for that reason it should be look into. See below:
 
-![](main/lot_summary.jpg)
+![](https://github.com/Aggie01/MechaCar_Statistical_Analysis-/blob/main/lot_summary.jpg)
     
 
 ## T-Tests on Suspension Coils
 
 - All of the means were not equal to the population mean of 1500.
 
- - Overall, the average was prety close the population mean, as shown below:
+- Overall, the average was prety close the population mean, as shown below:
 
-![overall ttest](https://user-images.githubusercontent.com/104734224/190880367-e4b06882-74e2-4e00-9652-74911d4747b7.png)
+![](total_summary%20Deliv%202.jpg)
 
   - However, as mentioned before, lot 3 threw off the mean of the overall lots. Lot 1 had the closest mean to the population mean. See below:
 
