@@ -30,7 +30,7 @@ The summary table below illustrates those findings:
 
 - Overall, the average was prety close the population mean, as shown below:
 
-![](total_summary%20Deliv%202.jpg)
+![](Deliv%203%20step1.jpg)
 
   - However, as mentioned before, lot 3 threw off the mean of the overall lots. Lot 1 had the closest mean to the population mean. See below:
 
