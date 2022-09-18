@@ -2,11 +2,11 @@
 
 
 ## Linear Regression to Predict MPG
-      - The most non-random amount of variance in the evaluation of mpg is observed in **vehicle length** and **ground clearance** variables 
+      - The most non-random amount of variance in the evaluation of mpg is observed in vehicle length and ground clearance variables 
     
-      - The slope of the linear model is **non-zero** as a result of the characteristics that are evaluated on mpg -they have a positive slope.
+      - The slope of the linear model is non-zero as a result of the characteristics that are evaluated on mpg - they have a positive slope.
       
-       - There are only two factors that affect the mpg of MechaCar prototypes. Those factors are **vehicle length** and **ground clearance**. The rest have random amounts of variance in determining mpg.
+       - There are only two factors that affect the mpg of MechaCar prototypes. Those factors are vehicle length and ground clearance. The rest have random amounts of variance in determining mpg.
 
 ## Summary Statistics on Suspension Coils
 
