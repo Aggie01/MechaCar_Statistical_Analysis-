@@ -26,7 +26,7 @@ The summary table below illustrates those findings:
 
 ## T-Tests on Suspension Coils
 
-- All of the **means were not equal to the population mean of 1500.
+- All of the means were not equal to the population mean of 1500.
 
 - Overall, the average was prety close the population mean, as shown below:
 
