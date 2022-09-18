@@ -2,17 +2,18 @@
 
 
 ## Linear Regression to Predict MPG
-      - The most non-random amount of variance in the evaluation of mpg is observed in vehicle length and ground clearance variables 
+      - The most non-random amount of variance in the evaluation of mpg is observed in **vehicle length** and **ground clearance** variables 
     
-      - The slope of the linear model is non-zero as a result of the characteristics that are evaluated on mpg -they have a positive slope.
+      - The slope of the linear model is **non-zero** as a result of the characteristics that are evaluated on mpg -they have a positive slope.
       
-  - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-      - There are only two factors that affect the mpg of MechaCar prototypes. Those factors are vehicle length and ground clearance. The rest have random amounts of variance in determining mpg.
+       - There are only two factors that affect the mpg of MechaCar prototypes. Those factors are **vehicle length** and **ground clearance**. The rest have random amounts of variance in determining mpg.
 
 ## Summary Statistics on Suspension Coils
 
-  - The design specifications for the MechaCar suspension coils suggest that the variance of the suspension coils should not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-    - The overall production data show no issue. See below:
+  - The design specifications for the MechaCar suspension coils suggest that the variance of the suspension coils should not exceed 100 pounds per square inch. The overall production data show no issue. 
+    
+    The summary table below illustrates those findings:
+![](PyBer%20Summary.png)
    
    ![summary psi](https://user-images.githubusercontent.com/104734224/190880143-3c90cbda-a467-43ff-8f8d-5dcb52e54911.png)
 
