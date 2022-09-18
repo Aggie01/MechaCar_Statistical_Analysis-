@@ -18,6 +18,8 @@ The summary table below illustrates those findings:
    
 
 - For each lot; however, **there is a huge difference in the variance of Lot 3 particularly**. It is over 100 pounds per square inch and for that reason it should be look into. See below:
+
+![](blob/main/lot_summary.jpg)
     
 ![lot summary](https://user-images.githubusercontent.com/104734224/190880181-cd58ba57-df3e-4471-8b83-35932576e70b.png)
 ## T-Tests on Suspension Coils
