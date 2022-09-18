@@ -43,19 +43,21 @@ The summary table below illustrates those findings:
   
 # New study design: MechaCar vs Competition
 
-Purpose: To quantify how the MechaCar performs against the competition on the following question: Is there any correlation between cost of a vehicle and safety ratings.
-       
+### Purpose: 
+To quantify how the MechaCar performs against the competition on the following question: Is there any correlation between cost of a vehicle and safety ratings.
+
+### Hypothesis:       
 - Null hypothesis: If there is no correlation between the vehicle price and safety ratings, the cost of the vehicle will remain “steady” despite the level of safety ratings. 
 - Alternative hypothesis: If there is a statistically significant correlation between a vehicle and safety ratings then the cost of a vehicle will be higher with elevated safety ratings.
 
       
- Statistical test that would test the hypothesis:
+ ### Statistical test that would test the hypothesis:
  - Correlation/linear regression comparing the prices of vehicles and safety ratings. A regression slope would demonstrate how much change safety rating adds (if at all) to vehicle price. 
 
- 
+ ### Data:
   - The data needed for this would be the safety ratings for all the vehicles (regardless of make or model) that are in the same market segment as the MechaCar. This analysis would call for the prices of those vehicles as well. It would be interesting to have listed the make and model of each car as well.  That way it would be possible to compare certain makes against one another and develop more in-depth analysis.
 
-Ideas for even further testing: 
+### Ideas for even further testing: 
 -	Are drivers willing to pay extra for top vehicle safety features?
 -	What safety features cause vehicle price to go up for instance auto-braking, backup camera, blind spot monitoring etc. 
 
