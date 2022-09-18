@@ -34,8 +34,11 @@ The summary table below illustrates those findings:
 
   - However, as mentioned before, lot 3 threw off the mean of the overall lots. Lot 1 had the closest mean to the population mean. See below:
 
+![](Deliv3%20step2%20Lot1.jpg)
+
+![](Deliv3%20step2%20Lot1.jpg)
+
+![](Deliv3%20step2%20Lot1.jpg)
   
-  ![lot1 ttest](https://user-images.githubusercontent.com/104734224/190880411-0f1de9be-54ab-492e-a3a5-202dbe42619b.png)
-  ![lot 2 ttest](https://user-images.githubusercontent.com/104734224/190880417-5f1831a8-260f-4f2a-b806-4e57a80113e4.png)
-  ![lot 3 ttest](https://user-images.githubusercontent.com/104734224/190880429-dcee5228-4c1d-43c0-9d9f-db95ecaf478b.png)
+  
 
