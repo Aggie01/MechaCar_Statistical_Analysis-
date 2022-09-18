@@ -6,7 +6,7 @@
 - The slope of the linear model is non-zero as a result of the characteristics that are evaluated on mpg - they have a positive slope
 - There are only two factors that affect the mpg of MechaCar prototypes. Those factors are vehicle length and ground clearance. The rest have random amounts of variance in determining mpg
 Linear regression specifications:
-![]()
+![](Linear%20Regression%20Deliverable%201.jpg)
 
 ## Summary Statistics on Suspension Coils
 
